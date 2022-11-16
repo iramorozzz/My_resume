@@ -1,0 +1,24 @@
+div {
+  background: #FFEFD5;
+  width: 700px;
+  max-width: 95%;
+  margin: -10px auto;
+  padding: 25px;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: 25px auto;
+  border-radius: 25px;
+}
+
+p {
+  font-size: 20px;
+}
+ button { 
+      font-size: 20px;
+      color: ;
+      display: block;
+      background-color:#FFFFF0;
+    }
